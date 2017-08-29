@@ -6,8 +6,10 @@ td {
     vertical-align: bottom !important;
 }
 
-tr td:first-child {
+tbody tr td:first-child {
     vertical-align: middle !important;
+    height: 200px;
+    width: 250px;
 }
 
 td, th {
